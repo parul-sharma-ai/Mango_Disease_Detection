@@ -1,0 +1,50 @@
+2026-03-23 15:45:00,064 Namespace(modelDir='/content/drive/MyDrive/Mango Disease Classifier/weights', logDir='/content/drive/MyDrive/Mango Disease Classifier/logs', dataDir='/content/drive/MyDrive/Mango Disease Classifier/Dataset', model_type='conv_trans', split_ratio=0.9, n_class=5, epochs=100, max_lr=3e-05, weight_decay=0.0001, batch_size=8)
+2026-03-23 15:47:42,207 Train Epoch 55: Loss = 0.8289
+2026-03-23 15:47:48,150 Best model saved at epoch 55 with accuracy 0.7046
+2026-03-23 15:48:43,752 Train Epoch 56: Loss = 0.8340
+2026-03-23 15:48:48,949 Best model saved at epoch 56 with accuracy 0.7229
+2026-03-23 15:49:44,537 Train Epoch 57: Loss = 0.8399
+2026-03-23 15:50:45,579 Train Epoch 58: Loss = 0.8239
+2026-03-23 15:51:46,382 Train Epoch 59: Loss = 0.7998
+2026-03-23 15:52:46,784 Train Epoch 60: Loss = 0.8175
+2026-03-23 15:53:47,289 Train Epoch 61: Loss = 0.8037
+2026-03-23 15:54:47,107 Train Epoch 62: Loss = 0.8127
+2026-03-23 15:55:46,246 Train Epoch 63: Loss = 0.7894
+2026-03-23 15:56:45,867 Train Epoch 64: Loss = 0.7870
+2026-03-23 15:57:45,137 Train Epoch 65: Loss = 0.7876
+2026-03-23 15:57:50,116 Best model saved at epoch 65 with accuracy 0.7358
+2026-03-23 15:58:44,646 Train Epoch 66: Loss = 0.7731
+2026-03-23 15:59:44,350 Train Epoch 67: Loss = 0.7764
+2026-03-23 16:00:44,209 Train Epoch 68: Loss = 0.7669
+2026-03-23 16:01:43,837 Train Epoch 69: Loss = 0.7566
+2026-03-23 16:02:43,367 Train Epoch 70: Loss = 0.7778
+2026-03-23 16:03:42,743 Train Epoch 71: Loss = 0.7477
+2026-03-23 16:04:42,054 Train Epoch 72: Loss = 0.7658
+2026-03-23 16:05:41,376 Train Epoch 73: Loss = 0.7552
+2026-03-23 16:05:47,307 Best model saved at epoch 73 with accuracy 0.7706
+2026-03-23 16:06:41,499 Train Epoch 74: Loss = 0.7526
+2026-03-23 16:07:41,196 Train Epoch 75: Loss = 0.7680
+2026-03-23 16:08:47,754 Train Epoch 76: Loss = 0.7512
+2026-03-23 16:09:55,122 Train Epoch 77: Loss = 0.7531
+2026-03-23 16:11:01,742 Train Epoch 78: Loss = 0.7435
+2026-03-23 16:12:06,909 Train Epoch 79: Loss = 0.7409
+2026-03-23 16:13:09,551 Train Epoch 80: Loss = 0.7316
+2026-03-23 16:14:12,246 Train Epoch 81: Loss = 0.7503
+2026-03-23 16:15:15,451 Train Epoch 82: Loss = 0.7344
+2026-03-23 16:16:20,303 Train Epoch 83: Loss = 0.7289
+2026-03-23 16:17:24,193 Train Epoch 84: Loss = 0.7204
+2026-03-23 16:18:27,936 Train Epoch 85: Loss = 0.7410
+2026-03-23 16:19:32,724 Train Epoch 86: Loss = 0.7231
+2026-03-23 16:20:35,565 Train Epoch 87: Loss = 0.7360
+2026-03-23 16:21:38,931 Train Epoch 88: Loss = 0.7257
+2026-03-23 16:23:36,270 Train Epoch 89: Loss = 0.7104
+2026-03-23 16:24:38,478 Train Epoch 90: Loss = 0.7224
+2026-03-23 16:25:40,479 Train Epoch 91: Loss = 0.7294
+2026-03-23 16:26:43,199 Train Epoch 92: Loss = 0.7280
+2026-03-23 16:27:47,360 Train Epoch 93: Loss = 0.7116
+2026-03-23 16:28:49,395 Train Epoch 94: Loss = 0.7268
+2026-03-23 16:29:51,003 Train Epoch 95: Loss = 0.7327
+2026-03-23 16:30:53,532 Train Epoch 96: Loss = 0.6997
+2026-03-23 16:31:55,965 Train Epoch 97: Loss = 0.7157
+2026-03-23 16:32:59,243 Train Epoch 98: Loss = 0.7129
+2026-03-23 16:34:01,575 Train Epoch 99: Loss = 0.7026

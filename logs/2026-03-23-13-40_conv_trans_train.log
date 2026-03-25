@@ -1,0 +1,1 @@
+2026-03-23 13:40:08,670 Namespace(modelDir='/content/drive/MyDrive/Mango Disease Classifier/weights', logDir='/content/drive/MyDrive/Mango Disease Classifier/logs', dataDir='/content/drive/MyDrive/Mango Disease Classifier/Dataset', model_type='conv_trans', split_ratio=0.9, n_class=5, epochs=100, max_lr=3e-05, weight_decay=0.0001, batch_size=8)

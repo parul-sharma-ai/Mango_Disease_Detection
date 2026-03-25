@@ -1,0 +1,74 @@
+2026-03-23 14:04:50,049 Namespace(modelDir='/content/drive/MyDrive/Mango Disease Classifier/weights', logDir='/content/drive/MyDrive/Mango Disease Classifier/logs', dataDir='/content/drive/MyDrive/Mango Disease Classifier/Dataset', model_type='conv_trans', split_ratio=0.9, n_class=5, epochs=100, max_lr=3e-05, weight_decay=0.0001, batch_size=8)
+2026-03-23 14:06:00,876 Train Epoch : 0	 Training Loss : 1.5621
+2026-03-23 14:06:09,654 Best Model saved for conv_trans
+2026-03-23 14:07:10,480 Train Epoch : 1	 Training Loss : 1.4495
+2026-03-23 14:07:16,182 Best Model saved for conv_trans
+2026-03-23 14:08:17,513 Train Epoch : 2	 Training Loss : 1.4134
+2026-03-23 14:08:25,222 Best Model saved for conv_trans
+2026-03-23 14:09:23,676 Train Epoch : 3	 Training Loss : 1.3978
+2026-03-23 14:10:32,217 Train Epoch : 4	 Training Loss : 1.3808
+2026-03-23 14:11:39,074 Train Epoch : 5	 Training Loss : 1.3639
+2026-03-23 14:11:45,003 Best Model saved for conv_trans
+2026-03-23 14:12:40,930 Train Epoch : 6	 Training Loss : 1.3504
+2026-03-23 14:13:40,660 Train Epoch : 7	 Training Loss : 1.3435
+2026-03-23 14:14:37,908 Train Epoch : 8	 Training Loss : 1.3199
+2026-03-23 14:14:43,142 Best Model saved for conv_trans
+2026-03-23 14:15:34,493 Train Epoch : 9	 Training Loss : 1.3101
+2026-03-23 14:16:33,877 Train Epoch : 10	 Training Loss : 1.3003
+2026-03-23 14:17:32,465 Train Epoch : 11	 Training Loss : 1.2882
+2026-03-23 14:18:30,756 Train Epoch : 12	 Training Loss : 1.2942
+2026-03-23 14:19:26,662 Train Epoch : 13	 Training Loss : 1.2799
+2026-03-23 14:20:24,619 Train Epoch : 14	 Training Loss : 1.2660
+2026-03-23 14:21:22,602 Train Epoch : 15	 Training Loss : 1.2478
+2026-03-23 14:22:20,714 Train Epoch : 16	 Training Loss : 1.2463
+2026-03-23 14:23:16,916 Train Epoch : 17	 Training Loss : 1.2440
+2026-03-23 14:23:23,503 Best Model saved for conv_trans
+2026-03-23 14:24:14,440 Train Epoch : 18	 Training Loss : 1.2239
+2026-03-23 14:25:12,572 Train Epoch : 19	 Training Loss : 1.2137
+2026-03-23 14:25:17,727 Best Model saved for conv_trans
+2026-03-23 14:26:09,573 Train Epoch : 20	 Training Loss : 1.2012
+2026-03-23 14:27:06,593 Train Epoch : 21	 Training Loss : 1.1750
+2026-03-23 14:28:02,386 Train Epoch : 22	 Training Loss : 1.1776
+2026-03-23 14:28:59,306 Train Epoch : 23	 Training Loss : 1.1617
+2026-03-23 14:29:06,103 Best Model saved for conv_trans
+2026-03-23 14:29:57,216 Train Epoch : 24	 Training Loss : 1.1557
+2026-03-23 14:30:55,436 Train Epoch : 25	 Training Loss : 1.1419
+2026-03-23 14:31:52,977 Train Epoch : 26	 Training Loss : 1.1319
+2026-03-23 14:32:52,056 Train Epoch : 27	 Training Loss : 1.1152
+2026-03-23 14:33:51,220 Train Epoch : 28	 Training Loss : 1.1011
+2026-03-23 14:34:49,027 Train Epoch : 29	 Training Loss : 1.0940
+2026-03-23 14:35:45,672 Train Epoch : 30	 Training Loss : 1.0713
+2026-03-23 14:35:51,815 Best Model saved for conv_trans
+2026-03-23 14:36:42,791 Train Epoch : 31	 Training Loss : 1.0752
+2026-03-23 14:36:49,931 Best Model saved for conv_trans
+2026-03-23 14:37:40,574 Train Epoch : 32	 Training Loss : 1.0442
+2026-03-23 14:38:38,471 Train Epoch : 33	 Training Loss : 1.0419
+2026-03-23 14:38:43,338 Best Model saved for conv_trans
+2026-03-23 14:39:37,213 Train Epoch : 34	 Training Loss : 1.0392
+2026-03-23 14:40:35,310 Train Epoch : 35	 Training Loss : 1.0250
+2026-03-23 14:41:32,733 Train Epoch : 36	 Training Loss : 1.0055
+2026-03-23 14:42:28,897 Train Epoch : 37	 Training Loss : 0.9969
+2026-03-23 14:42:35,062 Best Model saved for conv_trans
+2026-03-23 14:43:25,881 Train Epoch : 38	 Training Loss : 0.9750
+2026-03-23 14:44:23,523 Train Epoch : 39	 Training Loss : 0.9701
+2026-03-23 14:45:20,856 Train Epoch : 40	 Training Loss : 0.9800
+2026-03-23 14:45:25,816 Best Model saved for conv_trans
+2026-03-23 14:46:18,858 Train Epoch : 41	 Training Loss : 0.9520
+2026-03-23 14:47:15,617 Train Epoch : 42	 Training Loss : 0.9514
+2026-03-23 14:48:11,238 Train Epoch : 43	 Training Loss : 0.9327
+2026-03-23 14:48:17,712 Best Model saved for conv_trans
+2026-03-23 14:49:08,143 Train Epoch : 44	 Training Loss : 0.9146
+2026-03-23 14:50:05,287 Train Epoch : 45	 Training Loss : 0.9387
+2026-03-23 14:50:11,185 Best Model saved for conv_trans
+2026-03-23 14:51:02,508 Train Epoch : 46	 Training Loss : 0.9010
+2026-03-23 14:52:00,752 Train Epoch : 47	 Training Loss : 0.9109
+2026-03-23 14:52:57,184 Train Epoch : 48	 Training Loss : 0.8904
+2026-03-23 14:53:53,042 Train Epoch : 49	 Training Loss : 0.8757
+2026-03-23 14:54:50,185 Train Epoch : 50	 Training Loss : 0.8728
+2026-03-23 14:55:46,994 Train Epoch : 51	 Training Loss : 0.8854
+2026-03-23 14:55:51,783 Best Model saved for conv_trans
+2026-03-23 14:56:44,307 Train Epoch : 52	 Training Loss : 0.8539
+2026-03-23 14:57:41,185 Train Epoch : 53	 Training Loss : 0.8662
+2026-03-23 14:58:36,415 Train Epoch : 54	 Training Loss : 0.8401
+2026-03-23 14:58:42,950 Best Model saved for conv_trans
+2026-03-23 14:59:33,834 Train Epoch : 55	 Training Loss : 0.8412
