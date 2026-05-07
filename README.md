@@ -60,7 +60,7 @@ The dataset consists of **RGB images of mango crop(all organs except roots)**, l
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/Parul05101991/Mango_Disease_Detection
+git clone https://github.com/parul-sharma-ai/Mango_Disease_Detection
 cd mango-disease-detection
 ```
 
